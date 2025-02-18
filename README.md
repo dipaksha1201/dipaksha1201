@@ -18,8 +18,6 @@
 - 👯 Collaborating on open-source projects focused on accessibility and inclusive user experiences.
   
 - 💬 Ask me about AI applications, web development, or full-stack technologies.
-  
-- ⚡ Fun fact: I love to dance 💃 and explore new places 🌍!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
